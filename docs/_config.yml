@@ -29,7 +29,7 @@ twitter_username: andreasHausb
 github_username:  andreasHausberger
 
 # Build settings
-remote_theme: slate
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
