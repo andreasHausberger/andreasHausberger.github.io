@@ -29,7 +29,7 @@ twitter_username: andreasHausb
 github_username:  andreasHausberger
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
