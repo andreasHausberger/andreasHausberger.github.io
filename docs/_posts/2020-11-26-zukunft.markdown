@@ -2,6 +2,7 @@
 layout: post
 title:  "Die Zukunft von Taxperiment"
 date:   2020-11-26 00:00:00 +0100
+author: ahausb
 categories: jekyll update
 ---
 
@@ -16,10 +17,10 @@ und Informatik auf diese Weise miteinander zu verknüpfen.
 
 Die Adaptierung und Durchführung in größerem Maßstab ist jedoch nicht ohne Probleme abgelaufen. Viele Lösungen, die ich 
 ursprünglich als "gut genug" empfunden habe, stellten sich als problematisch heraus, sobald sie in größerem Maßstab 
-eingesetzt wurden. Ich habe mir vorgenommen, aus Fehlern zu lernen, und grundlegende Teile der Applikation neu zu
+eingesetzt wurden. Ich habe mir vorgenommen, aus Fehlern zu lernen, und grundlegende Aspekte der Applikation neu zu
 gestalten. 
 
-Mit einigen Teilen bin ich schon sehr zufrieden, jedoch gibt es noch genug Teile der Applikation, wo die oben erwähnten 
+Mit einigen Neuerungen bin ich schon sehr zufrieden, jedoch gibt es noch genug Teile der Applikation, wo die oben erwähnten 
 fehleranfälligen Lösungen noch merkbar sind. 
 
 In diesem Artikel möchte ich einige Gedanken niederschreiben, wie es mit dem Projekt weitergehen könnte. 
